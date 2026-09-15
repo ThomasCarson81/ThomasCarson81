@@ -1,4 +1,4 @@
-# Hey, I'm Thomas! 👋
+# Hi, I'm Thomas!
 
 I'm a Software Engineering student at Queen's University Belfast and a hobbyist developer who enjoys building things from scratch.
 
@@ -7,7 +7,7 @@ I like figuring out how things work under the hood, experimenting with new ideas
 ## A bit about me
 
 * 🎓 Studying Software Engineering at Queen's University Belfast.
-* 💻 I enjoy working with C#, Rust, Python, Java, C and C++.
+* 💻 I enjoy working with Rust, C#, Python, Java, and C.
 * 🔧 Interested in compilers, systems programming, game engines and embedded development.
 * 🚀 Always working on something new, whether it's a programming language, a game engine or just a random idea.
 
@@ -35,6 +35,5 @@ I'm particularly interested in exploring embedded systems as I progress through 
 
 ## GitHub stats
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=ThomasCarson81)](https://github.com/stats-organization/github-stats-extended)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=ThomasCarson81&layout=compact&langs_count=5&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=5&theme=dark_github)
 ---
-
-Thanks for stopping by!
