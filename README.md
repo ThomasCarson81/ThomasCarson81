@@ -34,7 +34,7 @@ I'm currently developing my skills in compiler design, systems programming and l
 I'm particularly interested in exploring embedded systems as I progress through university.
 
 ## GitHub stats
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=anuraghazra&rank_icon=github&show_icons=true&include_all_commits=true&theme=dark_github)](https://github-stats-extended.vercel.app/api?username=anuraghazra&rank_icon=github&show_icons=true&include_all_commits=true&theme=dark_github)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=ThomasCarson81&rank_icon=github&show_icons=true&include_all_commits=true&theme=dark_github)](https://github-stats-extended.vercel.app/api?username=ThomasCarson81&rank_icon=github&show_icons=true&include_all_commits=true&theme=dark_github)
 ---
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=ThomasCarson81&layout=compact&langs_count=5&theme=dark_github&hide=ShaderLab,CMake,HLSL,Mathematica)](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=5&theme=dark_github)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=ThomasCarson81&layout=compact&langs_count=5&theme=dark_github&hide=ShaderLab,CMake,HLSL,Mathematica)](https://github-stats-extended.vercel.app/api/top-langs?username=ThomasCarson81&layout=compact&langs_count=5&theme=dark_github)
 ---
